@@ -80,7 +80,7 @@ ___
 
 # Источник и полезные материалы
 ___
-+ https://itfb.com.ua/plyusy-i-minusy-docker/ (источник, здесь описаны только плюсы и минусы. лучше не читайте, куча орф. ошибок)
++ https://itfb.com.ua/plyusy-i-minusy-docker/ *(источник, здесь описаны только плюсы и минусы. лучше не читайте, куча орф. ошибок)*
 + [Полное практическое руководство по Docker: с нуля до кластера на AWS](https://habr.com/ru/post/310460/)
 + [Изучаем Docker, часть 1: основы](https://habr.com/ru/company/ruvds/blog/438796/)
 + [Изучаем Docker, часть 2: термины и концепции](https://habr.com/ru/company/ruvds/blog/439978/)
