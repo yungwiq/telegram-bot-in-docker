@@ -4,4 +4,4 @@ services:
   bot:
     build:
       context: .
-    image: yungwiq/telegram-bot-test:latest
+    image: yungwiq/telegram-bot-test:latest # your_username_docker_hub/image:version
