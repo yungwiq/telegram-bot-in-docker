@@ -11,7 +11,7 @@ ___
     
     docker login
 
-Создаем образ (предварительно замените значения image в Dockerfile)
+Создаем образ (предварительно замените значения image в docker-compose.yml)
 
     docker-compose build
 
