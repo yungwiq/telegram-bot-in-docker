@@ -1,4 +1,4 @@
-# Telegram-Bot-In-Docker 
+# telegram-bot-in-docker 
 ___
 Благодаря этому шаблону вы можете познакомиться с установкой 
 своих Telegram ботов в контейнеры.
